@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Sitchomatic",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
